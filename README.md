@@ -3,9 +3,7 @@
     <h1 align="center">Hi 👋, I'm Maia Figueredo</h1>
     <h3 align="center">A junior full stack developer from Argentina..</h3>
 </div>
-	<div>
-    	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-    </div>
+
 
 ### 👨‍💻 About Me :
 
