@@ -3,7 +3,7 @@
     <h1 align="center">Hi 👋, I'm Maia Figueredo</h1>
     <h3 align="center">A junior full stack developer from Argentina..</h3>
     <h3 align="center">visit my portfolio!  </h3>
-    maiacandelariaportafolio.netlify.app
+    **maiacandelariaportafolio.netlify.app**
 </div>
 
 
