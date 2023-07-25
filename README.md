@@ -2,8 +2,6 @@
     <img src="https://giphy.com/clips/originals-hacker-desi-hackette-lu01tsQqf1mJuHrFVq" width="200" />
     <h1 align="center">Hi 👋, I'm Maia Figueredo</h1>
     <h3 align="center">A junior full stack developer from Argentina..</h3>
-    <h3 align="center">visit my 
-<a href="maiacandelariaportafolio.netlify.app">Portfolio</a> </h3>
     
 </div>
 
