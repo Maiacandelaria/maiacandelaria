@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://giphy.com/clips/originals-hacker-desi-hackette-lu01tsQqf1mJuHrFVq" width="200" />
     <h1 align="center">Hi 👋, I'm Maia Figueredo</h1>
-    <h3 align="center">A junior full stack developer from Argentina..</h3>
+    <h3 align="center"> Data Analyst from Argentina..</h3>
     
 </div>
 
@@ -12,24 +12,17 @@
 
 - 📫 How to reach me **maiafigueredo0525@gmail.com**
 
-- 🌱 I’m currently learning **Machine learning with python** and **JAVA**
+- 🌱 I’m currently learning **Machine learning with python** and **Data Analytics with python**
 
 
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
+        <img src="https://devicon-website.vercel.app/api/python/original.svg"></img>
+        <img src="https://devicon-website.vercel.app/api/git/original.svg"></img>
+        <img src="https://devicon-website.vercel.app/api/angularjs/original.svg"></img>
       </div>
 </div>
 
